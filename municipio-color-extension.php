@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Municipio Color Extension
  * Description: Lägger till utökade färgpaletter i Anpassa.
- * Version: 1.2.1
+ * Version: 1.0.0
  */
 
 if (!defined('ABSPATH')) {
